@@ -31,10 +31,10 @@ I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
   ---
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mitzis&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kayleexx&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mitzis&layout=compact&theme=vision-friendly-dark)](https://github.com/mitzis/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kayleexx&layout=compact&theme=vision-friendly-dark)](https://github.com/Kayleexx/github-readme-stats)
 
  
  <a href="https://app.daily.dev/kaylee"><img src="https://api.daily.dev/devcards/ba8012c9541a44f287b6819845d3b40c.png?r=wej" width="400" alt="Mitali Sinha's Dev Card"/></a>
