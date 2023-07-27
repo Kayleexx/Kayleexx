@@ -10,14 +10,9 @@
 ### :woman_technologist: About Me :
 
 I am a Blockchain Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m currently pursuing my bachelor's in Computer Science with specialization in Blockchain Technology\.
+- :telescope: I’m currently pursuing my bachelor's in Computer Science with specialization in Blockchain Technology.
 
 - :seedling: Exploring Web3
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- :mailbox:How to reach me: ![Discord](https://dcbadge.vercel.app/api/shield/kaylee_xx)
-
 
 
 ### :hammer_and_wrench: Languages and Tools :
