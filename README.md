@@ -3,6 +3,8 @@
   <img src="https://media4.giphy.com/media/vH1ZSj8Rr3rkjZNHoL/giphy.gif?cid=ecf05e47jj2y66lz1grz8mcvvwh3fmbrrmwgy34dleg0agga&rid=giphy.gif&ct=s" width="40px"/>
 </h1>
 
+
+
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=100&color=F7931A&multiline=true&width=500&height=80&lines=Web3+%7C+Blockchain Dev;Building Decentralized Solutions 🚀;Solidity+%7C+Ethereum Enthusiast 🌐" alt="Typing SVG" /></a>
 
@@ -12,8 +14,17 @@
 </div>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kayleexx&label=Profile%20views&color=0e75b6&style=flat" alt="Kayleexx" /> </p>
 
+<div>
+<p align="center">
+
+ <img src="https://badges.pufler.dev/repos/Kayleexx"/>
+ <img src="https://badges.pufler.dev/commits/monthly/Kayleexx" />
+<img src="https://komarev.com/ghpvc/?username=Kayleexx&label=Profile%20views&color=0e75b6&style=flat" alt="Kayleexx" />
+
+</p>
+
+</div>
 
 
 ### :woman_technologist: About Me :
