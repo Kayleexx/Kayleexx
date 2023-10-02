@@ -44,6 +44,5 @@ I am a Blockchain Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kayleexx&layout=compact&theme=vision-friendly-dark)](https://github.com/Kayleexx/github-readme-stats)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?Kayleexx=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
