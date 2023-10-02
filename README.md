@@ -11,6 +11,9 @@
   <img src="https://i.gifer.com/origin/2b/2b604178397000ee589a86d3e9e10b5a.gif" width="600" height="300"/>
 </div>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kayleexx&label=Profile%20views&color=0e75b6&style=flat" alt="Kayleexx" /> </p>
+
+
 
 ### :woman_technologist: About Me :
 
