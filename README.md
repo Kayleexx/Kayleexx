@@ -11,6 +11,7 @@
   <img src="https://i.gifer.com/origin/2b/2b604178397000ee589a86d3e9e10b5a.gif" width="600" height="300"/>
 </div>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kayleexx&label=Profile%20views&color=0e75b6&style=flat" alt="Kayleexx" /> </p>
 
 
@@ -39,6 +40,10 @@ I am a Blockchain Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kayleexx&theme=dark&background=000000)](https://git.io/streak-stats)
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kayleexx&layout=compact&theme=vision-friendly-dark)](https://github.com/Kayleexx/github-readme-stats)
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?Kayleexx=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 
