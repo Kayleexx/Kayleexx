@@ -30,9 +30,10 @@
 ### :woman_technologist: About Me :
 
 I am a Blockchain Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m currently pursuing my bachelor's in Computer Science with specialization in Blockchain Technology.
+- :telescope: I’m currently pursuing my bachelor's in Computer Science with specialization in Blockchain Technology. My journey has been marked by a passion for blockchain, leading me to delve into projects across Ethereum, Polygon, and Solana networks. I've honed my development skills in ReactJS and Java, further enriching my toolkit.
 
-- :seedling: Exploring Web3
+
+- :seedling: I'm eager to embrace new challenges, adapt to emerging technologies, and drive innovation in the blockchain space. I'm dedicated to the blockchain's transformative potential and committed to exploring its myriad applications.
 
 
 ### :hammer_and_wrench: Languages and Tools :
