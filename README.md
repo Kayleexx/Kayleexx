@@ -44,6 +44,10 @@ I am a Blockchain Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="60">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40" height="60">
   <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" width="40" height="60">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" width="40" height="60">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="60">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40" height="60">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="60">
   </div>
   
   ---
