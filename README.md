@@ -62,6 +62,8 @@ I am a Blockchain Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Kayleexx&theme=radical&no-frame=false&no-bg=false&margin-w=4&bg_color=ffefe7&text_color=140200&title_color=e4626b&border_color=ffd2ce&icon_color=e4626b)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kayleexx&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
 
 
