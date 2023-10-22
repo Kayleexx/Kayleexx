@@ -56,6 +56,8 @@ I am a Blockchain Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kayleexx&theme=dark&background=000000)](https://git.io/streak-stats)
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kayleexx&show_icons=true&locale=en" alt="Kayleexx" /></p>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kayleexx&layout=compact&theme=vision-friendly-dark)](https://github.com/Kayleexx/github-readme-stats)
 
