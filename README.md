@@ -1,16 +1,9 @@
-<h1>
-  Hey there
-  <img src="https://media4.giphy.com/media/vH1ZSj8Rr3rkjZNHoL/giphy.gif?cid=ecf05e47jj2y66lz1grz8mcvvwh3fmbrrmwgy34dleg0agga&rid=giphy.gif&ct=s" width="40px"/>
-</h1>
-
-
-
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=100&color=F7931A&multiline=true&width=500&height=80&lines=Web3+%7C+Blockchain Dev;Building Decentralized Solutions 🚀;Solidity+%7C+Ethereum Enthusiast 🌐" alt="Typing SVG" /></a>
 
 
 <div align="center">
-  <img src="https://i.gifer.com/origin/2b/2b604178397000ee589a86d3e9e10b5a.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=790b7611r5mzifzau713kd1mxur69ydrrtvfyr96bgshbw6x&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600" height="300"/>
 </div>
 
 
