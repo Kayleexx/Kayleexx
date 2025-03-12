@@ -128,30 +128,25 @@ I am a Blockchain Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ## GitHub Stats 📊
 
 <div align="center">
-  <a href="https://github.com/mitalisinha">
-    <img src="https://github-readme-stats.vercel.app/api?username=mitalisinha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" />
+  <a href="https://github.com/Kayleexx">
+    <img src="https://github-readme-stats.vercel.app/api?username=Kayleexx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" />
   </a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/mitalisinha">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mitalisinha&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/mitalisinha">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitalisinha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
+  <a href="https://github.com/Kayleexx">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kayleexx&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://github.com/mitalisinha">
-    <img src="https://github-profile-trophy.vercel.app/?username=mitalisinha&theme=nord&no-frame=true&row=1&column=6&margin-w=15&no-bg=true" alt="Trophy" />
+  <a href="https://github.com/Kayleexx">
+    <img src="https://github-profile-trophy.vercel.app/?username=Kayleexx&theme=nord&no-frame=true&row=1&column=6&margin-w=15&no-bg=true" alt="Trophy" />
   </a>
 </div>
+
 
 
 <hr>
