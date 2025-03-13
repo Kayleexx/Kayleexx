@@ -133,11 +133,6 @@ I am a Blockchain Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   </a>
 </div>
 
-<div align="center">
-  <a href="https://github.com/Kayleexx">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kayleexx&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
-  </a>
-</div>
 
 <br/>
 
