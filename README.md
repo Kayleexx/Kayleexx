@@ -23,12 +23,6 @@
 </div>
 
 
-### :woman_technologist: About Me :
-
-I am Mitali Sinha, a Blockchain Developer & Software Engineer passionate about building scalable and secure applications. My expertise lies in smart contract development, decentralized applications (DApps), and Here's an updated **About Me** section that integrates both **Blockchain** and **Software Development (SDE)** while making it more unique and engaging:  
-
----
-
 ### 🚀 About Me :
 
 I am **Mitali Sinha**, a **Blockchain Developer & a last year Computer Science Engineering student** passionate about building scalable and secure applications. My expertise lies in **smart contract development, decentralized applications (DApps), and full-stack development**. With a strong foundation in **Java, Rust, Solidity, and MERN Stack**, I enjoy solving real-world problems using cutting-edge technology.  
