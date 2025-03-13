@@ -25,11 +25,22 @@
 
 ### :woman_technologist: About Me :
 
-I am a Blockchain Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m currently pursuing my bachelor's in Computer Science with specialization in Blockchain Technology. My journey has been marked by a passion for blockchain, leading me to delve into projects across Ethereum, Polygon, and Solana networks. I've honed my development skills in ReactJS and Java, further enriching my toolkit.
+I am Mitali Sinha, a Blockchain Developer & Software Engineer passionate about building scalable and secure applications. My expertise lies in smart contract development, decentralized applications (DApps), and Here's an updated **About Me** section that integrates both **Blockchain** and **Software Development (SDE)** while making it more unique and engaging:  
+
+---
+
+### 🚀 About Me :
+
+I am **Mitali Sinha**, a **Blockchain Developer & a last year Computer Science Engineering student** passionate about building scalable and secure applications. My expertise lies in **smart contract development, decentralized applications (DApps), and full-stack development**. With a strong foundation in **Java, Rust, Solidity, and MERN Stack**, I enjoy solving real-world problems using cutting-edge technology.  
+
+💡 **What drives me?**  
+The intersection of **blockchain and traditional software engineering** fascinates me. Whether it's optimizing Solidity smart contracts for gas efficiency, designing Web3 authentication systems, or developing scalable full-stack solutions, I'm always eager to push boundaries.  
 
 
-- :seedling: I'm eager to embrace new challenges, adapt to emerging technologies, and drive innovation in the blockchain space. I'm dedicated to the blockchain's transformative potential and committed to exploring its myriad applications.
+🌱 **Currently Exploring:**  
+- Advanced **Zero-Knowledge Proofs (ZKPs)** & Layer 2 Scaling.  
+- Building **AI-powered blockchain security tools**.  
+- Enhancing **SDE skills with system design & high-performance computing**.  
 
 
 ### Programming Languages
