@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmZiNjgxMTEyM2UyOTgxODhhZjQxNjQ3NDc5ZWUwOTQ4N2YyOWFlMiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3kPDmoWdBpQPNhCnUG/giphy.gif" width="100"> Hi there, I'm Mitali Sinha
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=500&height=70&lines=Blockchain+Developer;Java+Developer;Full+Stack+Developer;Web3+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=500&height=70&lines=Blockchain+Developer;Full+Stack+Developer;Web3+Enthusiast" alt="Typing SVG" />
 </div>
 
 
