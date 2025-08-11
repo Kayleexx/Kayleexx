@@ -69,8 +69,6 @@ $ git log --oneline --author="Mitali" | wc -l
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kayleexx&show_icons=true&theme=terminal&hide_border=true&bg_color=0a0a0a&title_color=00ff00&icon_color=00ff00&text_color=ffffff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kayleexx&layout=compact&theme=terminal&hide_border=true&bg_color=0a0a0a&title_color=00ff00&text_color=00ff00&text_color=ffffff)
-
 </div>
 
 ## Contact
