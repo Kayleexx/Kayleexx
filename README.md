@@ -2,7 +2,7 @@
 
 ```bash
 $ whoami
-mitali@dev:~$ blockchain_developer && rust_enthusiast
+mitali@dev:~$ software_developer && rust_enthusiast
 ```
 
 ## About
